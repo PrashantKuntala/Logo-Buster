@@ -1,0 +1,13 @@
+LOGO BUSTER
+-----------
+
+a simple web game based on HTML5 , CSS3 and javascript. You try to guess the company name based on the incomplete logo. some levels contain the map outlines of countries specific to each continent.
+
+How to play:
+------------
+
+- choose a level
+- Hover your mouse on the logo to enter your answer.
+- click " Am i Right !" to check your answer.
+- hint pops up if your wrong.
+
